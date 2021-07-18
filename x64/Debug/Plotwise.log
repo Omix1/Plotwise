@@ -1,0 +1,7 @@
+﻿  tspmanager.cpp
+D:\Plotwise\solver\helper.h(20,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Plotwise\solver\helper.h(28,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Plotwise\solver\helper.h(53,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Plotwise\solver\tspmanager.cpp(90,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Plotwise\solver\tspmanager.cpp(91,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Plotwise.vcxproj -> D:\Plotwise\x64\Debug\Plotwise.exe

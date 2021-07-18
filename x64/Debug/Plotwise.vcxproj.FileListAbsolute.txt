@@ -1,0 +1,4 @@
+D:\Plotwise\x64\Debug\Plotwise.vcxproj.CopyComplete
+D:\Plotwise\x64\Debug\Plotwise.exe
+D:\Plotwise\x64\Debug\gtest.pdb
+D:\Plotwise\x64\Debug\gtest_main.pdb
